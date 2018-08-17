@@ -1,6 +1,6 @@
 ## Description
 
-The application collection tweets from feed of major news agencies and identifies best tweets which can then be notified to the users.
+The application collects tweets from feed of major news agencies and identifies best tweets which can then be notified to the users.
 
 ## Methodology
 
